@@ -7,7 +7,7 @@
     <title>Coba git remote</title>
 </head>
 <body>
-    <h1>Tes
-    </h1>
+    <h1>Tes</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, deleniti necessitatibus similique fuga voluptas neque, harum consectetur, mollitia cum adipisci minima quod? Voluptatem aliquid rerum, fuga at inventore labore exercitationem.</p>
 </body>
 </html>
